@@ -1,4 +1,4 @@
-efine(['pipAPI', 'https://tanyarubi.github.io/IAT_gender_complexity/iat8.js'], function(APIConstructor, iatExtension){
+efine(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/IAT/qualtrics/quiat8.js'], function(APIConstructor, iatExtension){
     var API = new APIConstructor();
 
 	return iatExtension({
